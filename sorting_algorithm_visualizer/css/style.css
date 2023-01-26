@@ -49,7 +49,7 @@
   nav .array-inputs #a_generate:hover {
     cursor: pointer;
     transition: 300ms;
-    background-color: orange;
+    background-color: rgb(0, 255, 68);
   }
   
   
@@ -90,7 +90,7 @@
   }
   
   nav .header_right .algos button:hover {
-    background-color: rgb(255, 136, 0);
+    background-color: rgb(0, 255, 98);
     cursor: pointer;
     transition: 200ms ease-in-out;
   }
@@ -116,7 +116,7 @@
   }
   
   nav .header_right .algos .butt_unselected:hover {
-        background-color: rgb(255, 136, 0);
+        background-color: rgb(0, 255, 81);
     cursor: pointer;
   }
   
@@ -154,7 +154,7 @@
 }
 
   a{
-    color: rgb(255, 136, 0);
+    color: rgb(0, 255, 21);
   }
 
 .footer{
